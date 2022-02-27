@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The definition of a Parliament or, A glosse upon the times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82277</idno>
+            <idno type="STC">Wing D827</idno>
+            <idno type="STC">Thomason E85_33</idno>
+            <idno type="STC">ESTC R9593</idno>
+            <idno type="EEBO-CITATION">99873580</idno>
+            <idno type="PROQUEST">99873580</idno>
+            <idno type="VID">155676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155676)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The definition of a Parliament or, A glosse upon the times.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Argues "that there is a power of judicature [which] belongs to .. [Parliament], and that both houses are equally interested in it."</note>
+                  <note>Annotation on Thomason copy: "Jan: 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155676:1" rendition="simple:additions"/>
+            <p>THE DEFINITION OF A PARLIAMENT OR, A Gloſſe upon the Times.</p>
+            <p>
+               <add>Jan: 21</add> LONDON, Printed for J. F. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155676:2"/>
+            <head>The Definition of a Parliament.</head>
+            <p>I Muſt entreat the Readers patience, whil'ſt I preſent unto him a ruffe drawne Maſt of the juriſdiction of the high Court of Parliament.</p>
+            <p>And in doing it, I ſhall imitate a Lands <hi>Cape:</hi> firſt ſhew it you remote and in its primitive times, ſcarſe diſcernable wheth<g ref="char:EOLhyphen"/>er Land or no Land, whether a Parliament or no Parliament, then we ſhall ſayle neerer untill we come within certain cogni<g ref="char:EOLhyphen"/>zance of our own times, nay to this preſent; and then if we Shipwrack in the haven, if having bin befriended in the courſe of our Navigation by our failes, we ſhall ſplit in our anchor; I mean, if in the computation of all times we have had a Par<g ref="char:EOLhyphen"/>liament unqueſtionable in ſubſtance, in form, in all neceſſary adjuncts, and now in our own time, even at this preſent, (when ecclipſed juſtice, like the ſun impriſoned under a cloud, breaks out with luſtre) be concluded in defect of judicature, I ſhall ſay the ſtars have had malignant aſpects in our Horizon.</p>
+            <p>But firſt I ſhall do my beſt endeavour to ſatisfie them that hold the Houſe of Lords to be only interreſſed, ſo that the Houſe of Commons might be thought to make an inrode upon their priviledges, and be pregmaticall without preſident, though not without preſumption: Let thoſe know, that <hi>ani<g ref="char:EOLhyphen"/>ma est tota in toto, &amp; tota in qualibet parte:</hi> and judicature is the ſoule of this great compacted body, the times were when, both Houſes ſate in one place and had one Speaker; and ſince the power of judicature muſt be founded upon a preparatorie im<g ref="char:EOLhyphen"/>peachment, and this preparatory impeachment muſt be fram'd by the Commons Houſe; we muſt juſtifie them not guilty of the Title of fools by the wiſeman, to lay a foundation and ne<g ref="char:EOLhyphen"/>ver conſider by what means the ſtructure is to be finiſhed, nay excuſe them from that generall Remonſtrance of a generall grievance, extravidiciall proceedings.</p>
+            <pb facs="tcp:155676:2"/>
+            <p> The Lords are under his Majeſty the chief, but the Com<g ref="char:EOLhyphen"/>mons muſt be admitted for Members; and the helpe of thoſe doth much advantage the preſervation of the whole com<g ref="char:EOLhyphen"/>pound; nay on the contrary, the Gout is as mortall as the Head-ach.</p>
+            <p>Beſides, the Commons commenc'd proceedings againſt the parties impeached of high Treaſon (though ſeaſoned with much moderation and temper) are of ripe age, and bluſh to be kept in long Coats, though now unhappily ſuſpended by rea<g ref="char:EOLhyphen"/>ſon of unfortunate intervening occaſions: and now by reaſon of a miſ-interpreted rumor of their juriſdiction, which is by ſome drawn into queſtion; Let it be proclaimed on their be<g ref="char:EOLhyphen"/>half to all the world, that facts of Treaſon are above the cog<g ref="char:EOLhyphen"/>nizance of ordinary reaſon, and ſometimes above the puniſh<g ref="char:EOLhyphen"/>ment of the Laws and Statutes of this Kingdom, and yet never above the power of a Parliament.</p>
+            <p>And it being in my apprehenſion out of diſpute, that the Commons are deeply interreſted in that particular of judica<g ref="char:EOLhyphen"/>ture, I ſhall ſurvey that high Court of Parliament.</p>
+            <p>Parliament did I ſay? from what Radix? <hi>Parler le ment,</hi> to ſpeak ones mind. This muſt be attended with judgement and reaſon, but ſurely the Houſe of Commons ſpeak with none of them, if they be not able to maintain their juriſdiction, and know not their own power; this is its Etymologie, which is warranted by the beſt Antiquarie of his time; <hi>Vetusto nomine e Gallia mutata Parliamentum dicitur.</hi>
+            </p>
+            <p>This high Court hath not bin confin'd to this individuall appellation, but hath bin chriſtened by ſeverall God-fathers: <hi>Majores noſtri Anglo Saxones,</hi> intitled it <hi>Prudentum Conventus, concillium, &amp; magnus conuentus;</hi> ſucceeding Hiſtoriographers <hi>Commune concillium, Curia altiſſima, Generale placitum, commu<g ref="char:EOLhyphen"/>ne totius Regni concillium preſentia Regis:</hi> But certainly if they intended theſe flouriſhing Titles to a Parliament without ju<g ref="char:EOLhyphen"/>dicature, they ſpoke of their riding to Parliament not ſitting in it, an unhappy Parliament, like the City <hi>Myndas,</hi> whoſe gates
+<pb facs="tcp:155676:3"/>were ſo wide, that the City might run out of them.</p>
+            <p>To allow theſe to be Synonia's of Parliament, and to diſal<g ref="char:EOLhyphen"/>low judicature, were but Jewiſh like to ſay <hi>all haile King of the Jews,</hi> and in the mean time crucifie him: <hi>Mulmuccius</hi> of ſome called <hi>Donwallo,</hi> did writ two books of the Laws of the Brit<g ref="char:EOLhyphen"/>tains, the one called <hi>Statuta Municipalia,</hi> the other <hi>Leges Judi<g ref="char:EOLhyphen"/>diariae,</hi> for ſo the ſame do ſignifie in the Brittiſh tongue, which is as much to ſay as the Statute Law and Common Law, wch books were written 441 yeers before the incarnation of Chriſt, and how ſhould there be Statute Laws without a Parliament? King <hi>Alfred</hi> ordained for a perpetuall uſage that twice in the yeer or oftner if need be, they ſhould aſſemble themſelves at <hi>London</hi> to treat in Parliament of the government of the peo<g ref="char:EOLhyphen"/>ple of God, how they ſhould keep themſelves from ſin, live in quiet, and receive right by holy Laws and judgements.</p>
+            <p>In the Heptarchy, the Parliaments had their continuance; witneſſe the Stile of Parliaments in the time of <hi>Ina</hi> King of the Weſt-Saxons: <hi>Ego Ina dei gratia, &amp;c. Congregatione ſer<g ref="char:EOLhyphen"/>vorum dei, &amp;c. Conſtitui rectum conjugium &amp; juſta judicia pro ſtabilitate, &amp;c. Et nullo Aldermano vel alicui de toto regimine no<g ref="char:EOLhyphen"/>ſtro liceat conſcripta abolere judicia:</hi> So did <hi>Oſfa</hi> King of the <hi>mercians,</hi> and <hi>Ethbert</hi> King of <hi>Kent.</hi>
+            </p>
+            <p>In the Raign of King <hi>Ethelſton</hi> his Acts of Parliament are ſtiled thus: <hi>Haec ſunt judicia Exoniae quae ſapientes conſilio Ethe<g ref="char:EOLhyphen"/>ſtam Regis inſtituerunt, &amp; iterum apud Frefreſham, &amp; tertia vice apud—ubi haec definita ſimul &amp; confirmata ſunt.</hi> Here I find a Parliament ſummon'd, <hi>concillia Regis,</hi> prorogued in thoſe words <hi>iterum &amp; tertia vice,</hi> the royall aſſent in thoſe words <hi>confirmata ſunt,</hi> and the diſſolution in thoſe words <hi>definita ſimul.</hi>
+            </p>
+            <p>The Parliament of King <hi>Canutus</hi> at Wincheſter bore this Title, <hi>Haec ſunt Statuta Canuti Regis Anglorum, Danorum, Nor<g ref="char:EOLhyphen"/>vegarum, venerando ejus ſapien<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em concillio, habita in Sancto nata<g ref="char:EOLhyphen"/>li Domini apud Wintonian.</hi>
+            </p>
+            <p>Here we begin to make Land, and deſcrie a viſible Title to a Parliament, being in ſubſtance and form neerly allyed unto
+<pb facs="tcp:155676:3"/>the preſidents of theſe very times: In one word, time out of minde this high Court and its Judicature hath flouriſhed be<g ref="char:EOLhyphen"/>fore the Conqueſt; in the Conqueſt although <hi>ſilent leges inter arma,</hi> and ever ſince the Conqueſt untill this preſent houre.</p>
+            <p>Bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now ſome may ſay to me, what need you waken ſo many ſleepy Records, to prove that Parliaments have been? who is it of ſo deſperate an opinion, that offers it in queſtion? tru<g ref="char:EOLhyphen"/>ly I cannot name him or them, but whoſoever they were that enſtilled this jealouſie of Judicature into His MAIETIES thoughts, did <hi>ipſo facto</hi> ſubvert Parliaments, and the undoub<g ref="char:EOLhyphen"/>ted rights thereof. <hi>Arictotle</hi> bids us not to diſpute <hi>utrum nix ſit alba,</hi> and the like viſible and apparent truths: but if any man of an obdurate judgement, would have denied that there was <hi>anima rationalis,</hi> then <hi>Aristotle</hi> muſt have proved there was <hi>homo,</hi> and than <hi>anoma rationalis</hi> will be drawn in by con<g ref="char:EOLhyphen"/>ſequence: prove <hi>homo,</hi> that is, prove a Parliament, and <hi>anima rationalis</hi> which is Judicature, wil be drawn in by conſequence; Beſides
+<q xml:lang="lat">Judicis off<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cium eſt ut res, ita temporarerum quaerere.</q>
+            </p>
+            <p>Next I muſt ſhew that which the Law hath a tender reſpect unto, even the ends of Parliaments <hi>exitus acta probat,</hi> and thoſe I finde thus capitulated by Sir <hi>Edward Cooke; primo, ad ſubditos a delinguendo declinandos, hoc eſt, ut delicta tam bonis cau<g ref="char:EOLhyphen"/>tiſque legibus, tam debita earundam executione anticiparentur;</hi> now if <hi>debita executio legum</hi> can be in Parliament inflicted upon Delinquents <hi>ſubditos,</hi> without legall proceedings and tryall (except they will ſay nothing, and ſo be preſt to death) I leave it to be argued amongſt Children.</p>
+            <p n="2">2. <hi>Ut tuta tranquillaque ſic vita hominum;</hi> but certainly the the life of man is not preſerved by the impunity of offenders, which muſt paſſe <hi>ſublata judacatura.</hi>
+            </p>
+            <p n="3">3. <hi>Ut vixis quibuſdam ſanctionibus ſanctiſque judicijs vis uni<g ref="char:EOLhyphen"/>eunque fieret,</hi> but whether <hi>jus</hi> implies not puniſhing malefa<g ref="char:EOLhyphen"/>ctors, as well as relieving the oppreſſed (<hi>credelitas parcens</hi> being more deſtructive to the Common-wealth than <hi>credulitas pu<g ref="char:EOLhyphen"/>miens</hi>) let <hi>puiſnies</hi> be the judges.</p>
+            <pb facs="tcp:155676:4"/>
+            <p> A Parliament in its Etimology is <hi>altiſſima curia,</hi> but how ill-favouredly this name becomes it; if one Juſtice of Aſſize may hear and determine capitall offences, and this <hi>altiſſima curia</hi> not have the power of a Grand-jury to him to finde <hi>bil<g ref="char:EOLhyphen"/>la vera.</hi>
+            </p>
+            <p>The firſt man that ever ſuffered for Treaſon, if want of a preſident would excuſe him, might have begot Traytors to the third and fourth generation with impunity; but we will impute it unto the integrity of thoſe times that have not foſte<g ref="char:EOLhyphen"/>red ſuch unbounded ſpirits to attempt ſuch crimes as might leave preſidents of this nature.</p>
+            <p>And thus I have muſtred ſome few arguments in vindicati<g ref="char:EOLhyphen"/>on of the Judicature of the Parliament, and I think they are vallid enough for the intricacie of the queſtion; where tacks will ſerve what need is there of tenpenny-nayls? and now I have ſpent ſome time in ſcanning a Parliament with Judica<g ref="char:EOLhyphen"/>ture, I will caſt an eye upon that pritty ſilken Bug-beare of State, a Parliament without Judicature; for <hi>contraria contra<g ref="char:EOLhyphen"/>riis oppoſita magis cluceſcunt.</hi>
+            </p>
+            <p>
+               <hi>Curia altiſſima</hi> if that be wanting, muſt be <hi>curia infima mag<g ref="char:EOLhyphen"/>na,</hi> becomes <hi>curiaminima;</hi> whereas all Courts were derived from it, all Courts may inſult upon it; the high prized tin<g ref="char:EOLhyphen"/>cture of the Lords Robes begins to fade, the Eumins loſe their complexion, if they loſe their Judicature; their Speaker may ſtudy ſilence, and report to himſelfe that which he never heard nor read off, a Parliament without Judicature; the re<g ref="char:EOLhyphen"/>verend Judges that ſit Attendants on the Lords Houſe, in re<g ref="char:EOLhyphen"/>ſpect of thoſe intricate myſteries in Judicature, that happen to be diſcuſſed before this Tribunall (though moſt venerable in their own Sphear) may ſit like ſo many Plovers prickt down for ſtales, with this motto, <hi>videntur &amp; non ſunt;</hi> and the Houſe of Commons that were hitherto ſtiled <hi>prudentum con<g ref="char:EOLhyphen"/>ventus,</hi> may impeach with little wit, and be remedied with as little power.</p>
+            <p>The Common-Laws ſpeaks on Parliament and its Judica<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:155676:4"/>as you have ſeen; your Statute Law confirms it, preſi<g ref="char:EOLhyphen"/>dents ſtrengthen it, reaſon even undeniable reaſon fortifies it; what magick is there then, that the caſe is thus altered; if it lyes in the degrees of the perſons impeacht, hear then the Sta<g ref="char:EOLhyphen"/>tute of <hi>Marlebrige, Proviſum eſt concordatum &amp; conceſſum quod tam majores quam minores justitiam habeant, &amp; recipiant in curia domini Regis;</hi> out of which and the reſt that I have told you, this may be drawn for a maxime to poſterity, concerning the high Court of Parliament; <hi>Si vitustatem ſpectas est antiquiſ<g ref="char:EOLhyphen"/>ſima, ſi dignitatem est honoratiſſima, ſi juriſdictonem est capaciſ<g ref="char:EOLhyphen"/>ſima.</hi>
+            </p>
+            <p>And by this time I ſuppoſe all men will be ready to confeſſe that Judicature doth belong to that high Court of Parliament, but ſome will ſay with that Pamphleteer, in his book entitu<g ref="char:EOLhyphen"/>led <hi>a Complaint to the Houſe of Commons,</hi> is no Court of Re<g ref="char:EOLhyphen"/>cord, and therefore why ſhould they commit men to priſon, ſeeing they have no right to Judicature?</p>
+            <p>To whom I return this anſwer, That both Houſes make but one Court, ſo one Court of Record; 'tis true, 'twas mo<g ref="char:EOLhyphen"/>ved in the firſt Parliament of <hi>Henry</hi> the Fourth, and debated, whether the Commons had right of Judicature? and 'twas reſolved afterwards in the fixt year of <hi>Edward</hi> the Fourth, that they had; for in that year the Duke of <hi>Clarence</hi> was ſentenced by the Lords, the Duke of <hi>Buckingham</hi> being then High-Stew<g ref="char:EOLhyphen"/>ard, but the Commons Proteſted againſt it, which ſheweth that they had right; and though in the firſt of <hi>Henry</hi> the 4. the Commons referred by proteſtation the pronouncing of Sentence of depoſition againſt <hi>Richard</hi> the 2. to the Lords, yet they were equally interreſſed in it, as appears by the Record; for there were made Commiſſioners for the whole Parliament, one Biſhop, one Abbot, one Earle, one Baron, and two knighs, <hi>Grey</hi> and <hi>Erpingham</hi> for the Commons; and to inferre, That becauſe the Lords pronounced the ſentence, the point of judg<g ref="char:EOLhyphen"/>ment ſhould be only theirs, were as abſurd, as to conclude that there was no authority in any other Commiſſioner of
+<pb facs="tcp:155676:5"/>Oyer and Terminer, then in the perſon of that man ſolely that gave the Sentence.</p>
+            <p>In the ſecond <hi>Hen.</hi> 5. The Petition of the Commons im<g ref="char:EOLhyphen"/>plied no leſſe than a right they had to aſſent to all things in Parliament, and ſo it was anſwered by the King, when <hi>Ada<g ref="char:EOLhyphen"/>mour</hi> that proud Prelate of <hi>Wincheſter</hi> the Kings halfe Brother had grieved the State by his over-daring power, he was exiled by juſt ſentence from the King, the Lords and Commons; and this appears expreſſely by the anſwer ſent to Pope <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> the fourth, who ſent a letter for his revocation, becauſe he was a Church-man, and therefore not ſubject to any cen<g ref="char:EOLhyphen"/>ſure, the anſwer was <hi>Si dominus Rex &amp; Regni majores hoc vel<g ref="char:EOLhyphen"/>lent, communitas tamen ipſius ingreſſum in Angliam nubatentus ſustineret;</hi> the Peers ſubſigned this Anſwer with their names, and <hi>Petrus de Mountford vice totius communitatis</hi> as Speaker of the Commons: And this is ſufficient that there is a power of Judicature belongs to that Court, and that both Houſes are equally interreſſed in it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
